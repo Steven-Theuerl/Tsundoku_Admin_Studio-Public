@@ -6,7 +6,7 @@ It serves as the content engine behind my Tsundoku Blog, allowing me—and any f
 Built for scale and usability, the Studio supports modern media formats (like WebP and MP4), intuitive editing flows, and custom schema definitions tailored for performance and collaboration.
 Whether editing on a team or solo publishing, Tsundoku Admin Studio prioritizes flexibility, validation, and real-time previewing.
 
-![image](https://github.com/user-attachments/assets/7e884c8a-1aa4-403f-9c7a-bfc295d8de85)
+![image](https://github.com/user-attachments/assets/70a1515a-7081-479b-bf82-3993fd7d52a1)
 
 ---
 
