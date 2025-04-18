@@ -89,6 +89,7 @@ please reach out directly to discuss access or licensing.
 - Add document-level change history or version diffs via custom plugin
 - Expand role-based access control for multi-user teams (if ever needed)
 - Integrate image CDN transformation presets for social sharing
+- Add inputs for smaller Main Visuals to conditionally render on mobile devices to decrease LCP
 
 ---
 
