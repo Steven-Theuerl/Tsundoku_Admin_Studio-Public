@@ -98,10 +98,6 @@ please reach out directly to discuss access or licensing.
 This is a public-facing portfolio repository intended for informational and showcase purposes only.  
 All content, schema files, structure builder logic, and GROQ queries are original works by **Steven Theuerl**.
 
-You may not copy, modify, reuse, or repurpose any part of this project in your own work.
-
-Unauthorized use, in whole or in part, will be treated as intellectual property theft and may result in legal action.
-
 If you're interested in collaboration or licensing, please contact me directly.
 
 **© 2025 Steven Theuerl. All rights reserved.**
